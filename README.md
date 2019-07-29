@@ -10,6 +10,8 @@ Made by [Easy-Z](https://twitter.com/_easy_z_) and [Karimo299](https://twitter.c
 
 Icon by [PINPAL](https://twitter.com/TPINPAL).
 
+Check the review out: https://www.idownloadblog.com/2019/04/01/npf/
+
 # Changelog
 * Added support for Electra/Chimera users.
 * Fixed the crashing when opening Phone.app.
